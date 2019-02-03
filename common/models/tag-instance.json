@@ -1,0 +1,32 @@
+{
+  "name": "TagInstance",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": false
+    },
+    "caseID": {
+      "type": "string",
+      "required": false
+    },
+    "parentTagID": {
+      "type": "string",
+      "required": false
+    },
+    "dateCreated": {
+      "type": "date"
+    },
+    "Author": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

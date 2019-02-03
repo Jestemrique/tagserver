@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "casetaggerDS": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/casetaggerDB",
+    "database": "casetaggerDB",
+    "password": "",
+    "name": "casetaggerDS",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
