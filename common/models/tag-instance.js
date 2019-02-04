@@ -21,16 +21,9 @@ module.exports = function(Taginstance) {
                if (error){
                    console.log(error);
                }
-               //if (created){
-                   //context.instance.parentTagID = instance.$id.id;
-                //   context.instance.parentTagID = "hola caracola";
-               //}
         });
-        //console.log('Stop');
         next();
-    }); 
-
-    //End POST /TagInstances
+    });//End POST /TagInstances
 
     /**
      * REMOVE TAG FROM A CASE
@@ -41,50 +34,38 @@ module.exports = function(Taginstance) {
      *  _ In case there are it does nothing,
      *  _ In case this is the las tag, it also removes the Tag in the Tag model.
      */
-
-
-    //Check how many taginstances are left.
-    /*
-    var leftTagInstances = function(tagName){
-        let whereTagNameFilter = {where:{"name": context.instance.name}};
-        Taginstance.find(whereTagNamefilter, lefTagNAmes){
-        if (Error){
-            console.log("Error: " + error);
-        }
-        }
-    };
-    */ 
     Taginstance.removeTag = function(tagName, caseID, cb){
-        
-        //this.app.models.TagInstance.find({name: tagName}, {caseID: caseID}, (error, listinstances) => {
-        //    //console.log("stop");
-        //});
-    console.log("Stop");
-        
         this.app.models.TagInstance.destroyAll({and: [{name: tagName}, {caseID: caseID}]}, (err, info) => {
             console.log("Stop");
             cb(null, info);
         });
-        //Check this code.
-        //How to remve document from Tag when there are no TagInstances documents.
-        //this.app.models.TagInstance.count({"name": tagName}, (error, count, next) => {
-        //    console.log("Stop");
-        //    next();
-        //});
     }
     
     Taginstance.remoteMethod('removeTag', {
-        http: {path: "/TagInstnstances/:tagName/:caseID", verb: 'delete'},
+        http: {path: "/TagInstances/:tagName/:caseID", verb: 'delete'},
         accepts: [  
                     {arg:'tagName', type:'string', required: true},
                     {arg: 'caseID',  type: 'string', required: true}
                 ],
         returns: {type: 'object', root: true}                 
                 
-    });
-    
-    //End removeTag()
+    });//End removeTag()
 
+    /**
+     * Get the tags for a specific case.
+     * Remote method.
+     * GET /Taginstancese/:caseID
+     */
+
+     Taginstance.getCaseTags = function(caseID, cb){
+         Taginstance.remoteMethod('getCaseTags', {
+            http: {path: "/TagInstances/:caseID/tags", verb: 'get¡'},
+            accepts: [
+                        {arg:'caseID', type: 'string', required: true}
+                    ],
+            returns: {type: 'object', root: true}
+         });
+     }
 
     
 };
