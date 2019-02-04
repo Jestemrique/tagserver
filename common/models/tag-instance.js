@@ -58,14 +58,16 @@ module.exports = function(Taginstance) {
      */
 
      Taginstance.getCaseTags = function(caseID, cb){
-         Taginstance.remoteMethod('getCaseTags', {
-            http: {path: "/TagInstances/:caseID/tags", verb: 'get¡'},
-            accepts: [
-                        {arg:'caseID', type: 'string', required: true}
-                    ],
-            returns: {type: 'object', root: true}
-         });
+         console.log("stop");
      }
+
+     Taginstance.remoteMethod('getCaseTags', {
+        http: {path: "/TagInstances/:caseID/tags", verb: 'get'},
+        accepts: [
+                    {arg:'caseID', type: 'string', required: true}
+                ],
+        returns: {type: 'object', root: true}
+     });
 
     
 };
