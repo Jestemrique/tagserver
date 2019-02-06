@@ -54,15 +54,21 @@ module.exports = function(Taginstance) {
     /**
      * Get the tags for a specific case.
      * Remote method.
-     * GET /Taginstancese/:caseID
+     * GET /Taginstancese/:caseID/tags
      */
 
      Taginstance.getCaseTags = function(caseID, cb){
-         console.log("stop");
+         //console.log("stop");
+         let where_filter = { where: {caseID: caseID} } ;
+         
+         this.find(where_filter, (error, models) =>{
+            console.log("Stop");
+            cb(null, models);
+         });
      }
 
      Taginstance.remoteMethod('getCaseTags', {
-        http: {path: "/TagInstances/:caseID/tags", verb: 'get'},
+        http: {path: "/:caseID/tags", verb: 'get'},
         accepts: [
                     {arg:'caseID', type: 'string', required: true}
                 ],
