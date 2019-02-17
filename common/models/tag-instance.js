@@ -42,7 +42,7 @@ module.exports = function(Taginstance) {
     }
     
     Taginstance.remoteMethod('removeTag', {
-        http: {path: "/TagInstances/:tagName/:caseID", verb: 'delete'},
+        http: {path: "/:tagName/:caseID", verb: 'delete'},
         accepts: [  
                     {arg:'tagName', type:'string', required: true},
                     {arg: 'caseID',  type: 'string', required: true}
