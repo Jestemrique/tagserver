@@ -1,0 +1,1378 @@
+[
+    {
+        "name": "Performance",
+        "id": ""
+    },
+    {
+        "name": "Documentation",
+        "id": ""
+    },
+    {
+        "name": "MissingContactDetails",
+        "id": ""
+    },
+    {
+        "name": "Engine",
+        "id": ""
+    },
+    {
+        "name": "Incorrect Result",
+        "id": ""
+    },
+    {
+        "name": "ODBC driver",
+        "id": ""
+    },
+    {
+        "name": "date format",
+        "id": ""
+    },
+    {
+        "name": "REST API",
+        "id": ""
+    },
+    {
+        "name": "Security Roles",
+        "id": ""
+    },
+    {
+        "name": "AWS",
+        "id": ""
+    },
+    {
+        "name": "Provision",
+        "id": ""
+    },
+    {
+        "name": "EC2 instance",
+        "id": ""
+    },
+    {
+        "name": "ACL issue",
+        "id": ""
+    },
+    {
+        "name": "Expected Behavior",
+        "id": ""
+    },
+    {
+        "name": "KB present",
+        "id": ""
+    },
+    {
+        "name": "CustomerDidNotResearch",
+        "id": ""
+    },
+    {
+        "name": "KBase",
+        "id": ""
+    },
+    {
+        "name": "Drilling",
+        "id": ""
+    },
+    {
+        "name": "How-to",
+        "id": ""
+    },
+    {
+        "name": "Dossier",
+        "id": ""
+    },
+    {
+        "name": "Linking",
+        "id": ""
+    },
+    {
+        "name": "NoProduct",
+        "id": ""
+    },
+    {
+        "name": "NoVersion",
+        "id": ""
+    },
+    {
+        "name": "Font issue",
+        "id": ""
+    },
+    {
+        "name": "Wrong case reason",
+        "id": ""
+    },
+    {
+        "name": "EnvironmentalIssue",
+        "id": ""
+    },
+    {
+        "name": "CustomerGaveUp",
+        "id": ""
+    },
+    {
+        "name": "Limitation",
+        "id": ""
+    },
+    {
+        "name": "NoWorkaround",
+        "id": ""
+    },
+    {
+        "name": "BulkExport",
+        "id": ""
+    },
+    {
+        "name": "Metadata",
+        "id": ""
+    },
+    {
+        "name": "databasePerformance",
+        "id": ""
+    },
+    {
+        "name": "CapacityPlanning",
+        "id": ""
+    },
+    {
+        "name": "Sizing",
+        "id": ""
+    },
+    {
+        "name": "Storage",
+        "id": ""
+    },
+    {
+        "name": "Cloud",
+        "id": ""
+    },
+    {
+        "name": "Training",
+        "id": ""
+    },
+    {
+        "name": "ODBC",
+        "id": ""
+    },
+    {
+        "name": "Connectivity",
+        "id": ""
+    },
+    {
+        "name": "Installation",
+        "id": ""
+    },
+    {
+        "name": "Teradata",
+        "id": ""
+    },
+    {
+        "name": "LDAP",
+        "id": ""
+    },
+    {
+        "name": "DataImport",
+        "id": ""
+    },
+    {
+        "name": "StringHandling",
+        "id": ""
+    },
+    {
+        "name": "ContractIssues",
+        "id": ""
+    },
+    {
+        "name": "UnsupportedSetup",
+        "id": ""
+    },
+    {
+        "name": "SimpleQuestion",
+        "id": ""
+    },
+    {
+        "name": "Mapbox",
+        "id": ""
+    },
+    {
+        "name": "WebGL",
+        "id": ""
+    },
+    {
+        "name": "BrowserIssue",
+        "id": ""
+    },
+    {
+        "name": "Wrong Product",
+        "id": ""
+    },
+    {
+        "name": "Customization",
+        "id": ""
+    },
+    {
+        "name": "Navigating",
+        "id": ""
+    },
+    {
+        "name": "Privileges",
+        "id": ""
+    },
+    {
+        "name": "Mobile",
+        "id": ""
+    },
+    {
+        "name": "No workaround",
+        "id": ""
+    },
+    {
+        "name": "SAML",
+        "id": ""
+    },
+    {
+        "name": "Shibboleth",
+        "id": ""
+    },
+    {
+        "name": "NoSupport",
+        "id": ""
+    },
+    {
+        "name": "Authentication",
+        "id": ""
+    },
+    {
+        "name": "Howto",
+        "id": ""
+    },
+    {
+        "name": "REST",
+        "id": ""
+    },
+    {
+        "name": "API",
+        "id": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "id": ""
+    },
+    {
+        "name": "ESRI",
+        "id": ""
+    },
+    {
+        "name": "Maps",
+        "id": ""
+    },
+    {
+        "name": "iOS",
+        "id": ""
+    },
+    {
+        "name": "SDK",
+        "id": ""
+    },
+    {
+        "name": "Security",
+        "id": ""
+    },
+    {
+        "name": "HowTo",
+        "id": ""
+    },
+    {
+        "name": "XCode",
+        "id": ""
+    },
+    {
+        "name": "Compile",
+        "id": ""
+    },
+    {
+        "name": "OpenSessions",
+        "id": ""
+    },
+    {
+        "name": "Library",
+        "id": ""
+    },
+    {
+        "name": "JavaAPI",
+        "id": ""
+    },
+    {
+        "name": "AttributeExpresion",
+        "id": ""
+    },
+    {
+        "name": "EndPointIssues",
+        "id": ""
+    },
+    {
+        "name": "WebAccess",
+        "id": ""
+    },
+    {
+        "name": "WebBrowser",
+        "id": ""
+    },
+    {
+        "name": "Compatibility",
+        "id": ""
+    },
+    {
+        "name": "Thresholds",
+        "id": ""
+    },
+    {
+        "name": "Formatting",
+        "id": ""
+    },
+    {
+        "name": "URL API",
+        "id": ""
+    },
+    {
+        "name": "KnownLimitation",
+        "id": ""
+    },
+    {
+        "name": "NoResolution",
+        "id": ""
+    },
+    {
+        "name": "Export",
+        "id": ""
+    },
+    {
+        "name": "Excel",
+        "id": ""
+    },
+    {
+        "name": "WebIssue",
+        "id": ""
+    },
+    {
+        "name": "ESM",
+        "id": ""
+    },
+    {
+        "name": "SystemPrompt",
+        "id": ""
+    },
+    {
+        "name": "NoDocumentation",
+        "id": ""
+    },
+    {
+        "name": "",
+        "id": ""
+    },
+    {
+        "name": "Mobile configuration",
+        "id": ""
+    },
+    {
+        "name": "Multimedia Widget",
+        "id": ""
+    },
+    {
+        "name": "Display Issue",
+        "id": ""
+    },
+    {
+        "name": "Landscape View",
+        "id": ""
+    },
+    {
+        "name": "Import",
+        "id": ""
+    },
+    {
+        "name": "GoogleDocs",
+        "id": ""
+    },
+    {
+        "name": "GoogleDrive",
+        "id": ""
+    },
+    {
+        "name": "Unsetting Filter",
+        "id": ""
+    },
+    {
+        "name": "Known Limitation",
+        "id": ""
+    },
+    {
+        "name": "No accurate subreason",
+        "id": ""
+    },
+    {
+        "name": "No Entitlement",
+        "id": ""
+    },
+    {
+        "name": "1011CU1Fix",
+        "id": ""
+    },
+    {
+        "name": "FixedByUpdate",
+        "id": ""
+    },
+    {
+        "name": "PotentialReopenedCase",
+        "id": ""
+    },
+    {
+        "name": "MisunderstoodFunctionality",
+        "id": ""
+    },
+    {
+        "name": "UnclearDocumentation",
+        "id": ""
+    },
+    {
+        "name": "CustomerActionNoReponse",
+        "id": ""
+    },
+    {
+        "name": "UnknownResolution",
+        "id": ""
+    },
+    {
+        "name": "KnownIssue",
+        "id": ""
+    },
+    {
+        "name": "FixedInNextRelease",
+        "id": ""
+    },
+    {
+        "name": "Closed By Incation",
+        "id": ""
+    },
+    {
+        "name": "IssueWithSaving",
+        "id": ""
+    },
+    {
+        "name": "UnknownRuntimeError",
+        "id": ""
+    },
+    {
+        "name": "GenericError",
+        "id": ""
+    },
+    {
+        "name": "WrongCaseReason",
+        "id": ""
+    },
+    {
+        "name": "WrongCaseReson",
+        "id": ""
+    },
+    {
+        "name": "MissingDocumentation",
+        "id": ""
+    },
+    {
+        "name": "3rdParty",
+        "id": ""
+    },
+    {
+        "name": "ReadMe",
+        "id": ""
+    },
+    {
+        "name": "Labels",
+        "id": ""
+    },
+    {
+        "name": "KnownError",
+        "id": ""
+    },
+    {
+        "name": "Integration",
+        "id": ""
+    },
+    {
+        "name": "Tamkeen",
+        "id": ""
+    },
+    {
+        "name": "Enhancement",
+        "id": ""
+    },
+    {
+        "name": "WorkingAsDesigned",
+        "id": ""
+    },
+    {
+        "name": "NoResponse",
+        "id": ""
+    },
+    {
+        "name": "Licensing",
+        "id": ""
+    },
+    {
+        "name": "Filtering",
+        "id": ""
+    },
+    {
+        "name": "Upgrade",
+        "id": ""
+    },
+    {
+        "name": "MANIFEST.MF",
+        "id": ""
+    },
+    {
+        "name": "SSO",
+        "id": ""
+    },
+    {
+        "name": "404",
+        "id": ""
+    },
+    {
+        "name": "DerivedObjects",
+        "id": ""
+    },
+    {
+        "name": "Comaptibility",
+        "id": ""
+    },
+    {
+        "name": "MobileConnectivityIssue",
+        "id": ""
+    },
+    {
+        "name": "MobileIron",
+        "id": ""
+    },
+    {
+        "name": "ClosedByInaction",
+        "id": ""
+    },
+    {
+        "name": "Encryption",
+        "id": ""
+    },
+    {
+        "name": "CustomApp",
+        "id": ""
+    },
+    {
+        "name": "Workaround",
+        "id": ""
+    },
+    {
+        "name": "Caches",
+        "id": ""
+    },
+    {
+        "name": "LoadBalancer",
+        "id": ""
+    },
+    {
+        "name": "LoggingToWeb",
+        "id": ""
+    },
+    {
+        "name": "UserConnections",
+        "id": ""
+    },
+    {
+        "name": "UnsupportedConfiguration",
+        "id": ""
+    },
+    {
+        "name": "LibraryMobileApp",
+        "id": ""
+    },
+    {
+        "name": "Desktop",
+        "id": ""
+    },
+    {
+        "name": "IdeaExchange",
+        "id": ""
+    },
+    {
+        "name": "ESRIMap",
+        "id": ""
+    },
+    {
+        "name": "ClearingCaches",
+        "id": ""
+    },
+    {
+        "name": "DisplayIssue",
+        "id": ""
+    },
+    {
+        "name": "HTMLTag",
+        "id": ""
+    },
+    {
+        "name": "ImageAlignment",
+        "id": ""
+    },
+    {
+        "name": "DifferentContactPerson",
+        "id": ""
+    },
+    {
+        "name": "ResponsiveDesign",
+        "id": ""
+    },
+    {
+        "name": "GeneralQuestions",
+        "id": ""
+    },
+    {
+        "name": "PromptedDocuments",
+        "id": ""
+    },
+    {
+        "name": "OpenInLibrary",
+        "id": ""
+    },
+    {
+        "name": "LibraryDeployment",
+        "id": ""
+    },
+    {
+        "name": "MisleadingPluginFiles",
+        "id": ""
+    },
+    {
+        "name": "ExcelLimitation",
+        "id": ""
+    },
+    {
+        "name": "MobileUserConnection",
+        "id": ""
+    },
+    {
+        "name": "DeveloperSystemMonitor",
+        "id": ""
+    },
+    {
+        "name": "ExpectedBehaviour",
+        "id": ""
+    },
+    {
+        "name": "EMMprovider",
+        "id": ""
+    },
+    {
+        "name": "FeatureNotAvailableError",
+        "id": ""
+    },
+    {
+        "name": "LinkToFolder",
+        "id": ""
+    },
+    {
+        "name": "URLAPI",
+        "id": ""
+    },
+    {
+        "name": "InfoIcon",
+        "id": ""
+    },
+    {
+        "name": "ApplicationError",
+        "id": ""
+    },
+    {
+        "name": "GeneralError",
+        "id": ""
+    },
+    {
+        "name": "EditViewFilter",
+        "id": ""
+    },
+    {
+        "name": "PresentationMode",
+        "id": ""
+    },
+    {
+        "name": "SDKSolution",
+        "id": ""
+    },
+    {
+        "name": "FixedInNewerVersion",
+        "id": ""
+    },
+    {
+        "name": "UnsupportedVersion",
+        "id": ""
+    },
+    {
+        "name": "LandingPage",
+        "id": ""
+    },
+    {
+        "name": "NoCachingMode",
+        "id": ""
+    },
+    {
+        "name": "CSRF",
+        "id": ""
+    },
+    {
+        "name": "TransactionServices",
+        "id": ""
+    },
+    {
+        "name": "NoModificationsSubmitted",
+        "id": ""
+    },
+    {
+        "name": "ViewControllerError",
+        "id": ""
+    },
+    {
+        "name": "NoLongerReproduced",
+        "id": ""
+    },
+    {
+        "name": "Facebook",
+        "id": ""
+    },
+    {
+        "name": "FacebookAPI",
+        "id": ""
+    },
+    {
+        "name": "DataImportConnector",
+        "id": ""
+    },
+    {
+        "name": "KBarticle",
+        "id": ""
+    },
+    {
+        "name": "WebPerformance",
+        "id": ""
+    },
+    {
+        "name": "OneTimeOccurrence",
+        "id": ""
+    },
+    {
+        "name": "WebServerRestart",
+        "id": ""
+    },
+    {
+        "name": "LibraryApp",
+        "id": ""
+    },
+    {
+        "name": "DossierExecution",
+        "id": ""
+    },
+    {
+        "name": "SelectorIssue",
+        "id": ""
+    },
+    {
+        "name": "ElementsNotPassed",
+        "id": ""
+    },
+    {
+        "name": "MDandCachesRequired",
+        "id": ""
+    },
+    {
+        "name": "MSTROffice",
+        "id": ""
+    },
+    {
+        "name": "RequestForLibraryFolders",
+        "id": ""
+    },
+    {
+        "name": "WrongCaseContact",
+        "id": ""
+    },
+    {
+        "name": "WCAG",
+        "id": ""
+    },
+    {
+        "name": "VPAT",
+        "id": ""
+    },
+    {
+        "name": "MSTRcompliance",
+        "id": ""
+    },
+    {
+        "name": "ACL",
+        "id": ""
+    },
+    {
+        "name": "ObjectSpecific",
+        "id": ""
+    },
+    {
+        "name": "DarkTheme",
+        "id": ""
+    },
+    {
+        "name": "FontColour",
+        "id": ""
+    },
+    {
+        "name": "HierarchicalAttributes",
+        "id": ""
+    },
+    {
+        "name": "ManyElements",
+        "id": ""
+    },
+    {
+        "name": "DossierSharing",
+        "id": ""
+    },
+    {
+        "name": "DossierDeletion",
+        "id": ""
+    },
+    {
+        "name": "EnhancementRequest",
+        "id": ""
+    },
+    {
+        "name": "SSSS",
+        "id": ""
+    },
+    {
+        "name": "StimultaneousDatasetModification",
+        "id": ""
+    },
+    {
+        "name": "ToolTip",
+        "id": ""
+    },
+    {
+        "name": "NotOnShortTermRoadmap",
+        "id": ""
+    },
+    {
+        "name": "LineBreak",
+        "id": ""
+    },
+    {
+        "name": "CarriageReturn",
+        "id": ""
+    },
+    {
+        "name": "Newline",
+        "id": ""
+    },
+    {
+        "name": "BlankColumns",
+        "id": ""
+    },
+    {
+        "name": "MissingData",
+        "id": ""
+    },
+    {
+        "name": "IssueAfterUpgrade",
+        "id": ""
+    },
+    {
+        "name": "UnspecifiedError",
+        "id": ""
+    },
+    {
+        "name": "FilterSummary",
+        "id": ""
+    },
+    {
+        "name": "DerivedObject",
+        "id": ""
+    },
+    {
+        "name": "Android",
+        "id": ""
+    },
+    {
+        "name": "FitToPage",
+        "id": ""
+    },
+    {
+        "name": "ImageResizing",
+        "id": ""
+    },
+    {
+        "name": "Rebranding",
+        "id": ""
+    },
+    {
+        "name": "ComponentNotUpgraded",
+        "id": ""
+    },
+    {
+        "name": "CompatibilityError",
+        "id": ""
+    },
+    {
+        "name": "SSLIssue",
+        "id": ""
+    },
+    {
+        "name": "CollaborationServer",
+        "id": ""
+    },
+    {
+        "name": "ConnectivityIssue",
+        "id": ""
+    },
+    {
+        "name": "FIxedInNextRelease",
+        "id": ""
+    },
+    {
+        "name": "CustomerFoundKB",
+        "id": ""
+    },
+    {
+        "name": "IIS",
+        "id": ""
+    },
+    {
+        "name": "WindowsAuthentication",
+        "id": ""
+    },
+    {
+        "name": "wrong case reason",
+        "id": ""
+    },
+    {
+        "name": "wrong version",
+        "id": ""
+    },
+    {
+        "name": "Excel export",
+        "id": ""
+    },
+    {
+        "name": "knownIssue",
+        "id": ""
+    },
+    {
+        "name": "upgrade issue",
+        "id": ""
+    },
+    {
+        "name": "cosmetic issue",
+        "id": ""
+    },
+    {
+        "name": "imagere rendering",
+        "id": ""
+    },
+    {
+        "name": "better approach to reproduce",
+        "id": ""
+    },
+    {
+        "name": "Object Manager",
+        "id": ""
+    },
+    {
+        "name": "XML options",
+        "id": ""
+    },
+    {
+        "name": "Integrity Manager",
+        "id": ""
+    },
+    {
+        "name": "baseline",
+        "id": ""
+    },
+    {
+        "name": ".mtc file",
+        "id": ""
+    },
+    {
+        "name": "MAInst.dll",
+        "id": ""
+    },
+    {
+        "name": "OOTB driver",
+        "id": ""
+    },
+    {
+        "name": "Workstation",
+        "id": ""
+    },
+    {
+        "name": "CustomerDidSearch",
+        "id": ""
+    },
+    {
+        "name": "TrustedAuthentication",
+        "id": ""
+    },
+    {
+        "name": "Aqueduct",
+        "id": ""
+    },
+    {
+        "name": "InternalCase",
+        "id": ""
+    },
+    {
+        "name": "ResolvedWithKB",
+        "id": ""
+    },
+    {
+        "name": "duplicate",
+        "id": ""
+    },
+    {
+        "name": "Metadata inconsistency",
+        "id": ""
+    },
+    {
+        "name": "Custom Test",
+        "id": ""
+    },
+    {
+        "name": "ScanMD",
+        "id": ""
+    },
+    {
+        "name": "ObjectMigration",
+        "id": ""
+    },
+    {
+        "name": "Hotfix",
+        "id": ""
+    },
+    {
+        "name": "Expired Support Entitlement",
+        "id": ""
+    },
+    {
+        "name": "Metadata Performance",
+        "id": ""
+    },
+    {
+        "name": "Environemnt Management",
+        "id": ""
+    },
+    {
+        "name": "IssueDisappears",
+        "id": ""
+    },
+    {
+        "name": "KBPresent",
+        "id": ""
+    },
+    {
+        "name": "NoReply",
+        "id": ""
+    },
+    {
+        "name": "Metric",
+        "id": ""
+    },
+    {
+        "name": "Telemetry",
+        "id": ""
+    },
+    {
+        "name": "ProvidedProject",
+        "id": ""
+    },
+    {
+        "name": ".mmpPackage",
+        "id": ""
+    },
+    {
+        "name": "DossierLookandFeel",
+        "id": ""
+    },
+    {
+        "name": "NotonRoadmap",
+        "id": ""
+    },
+    {
+        "name": "MobileURLAPI",
+        "id": ""
+    },
+    {
+        "name": "Hyperlink",
+        "id": ""
+    },
+    {
+        "name": "DynamicPromptAnswer",
+        "id": ""
+    },
+    {
+        "name": "DownloadIssue",
+        "id": ""
+    },
+    {
+        "name": "SomeDossierOnly",
+        "id": ""
+    },
+    {
+        "name": "ClusteredBubbles",
+        "id": ""
+    },
+    {
+        "name": "Colouring",
+        "id": ""
+    },
+    {
+        "name": "Threshold",
+        "id": ""
+    },
+    {
+        "name": "WorkingasDesigned",
+        "id": ""
+    },
+    {
+        "name": "ArrowKeysonKeyboard",
+        "id": ""
+    },
+    {
+        "name": "DossierGrid",
+        "id": ""
+    },
+    {
+        "name": "Scrolling",
+        "id": ""
+    },
+    {
+        "name": "UserError",
+        "id": ""
+    },
+    {
+        "name": "TomcatInstallation",
+        "id": ""
+    },
+    {
+        "name": "WebDeployment",
+        "id": ""
+    },
+    {
+        "name": "LoginFailure",
+        "id": ""
+    },
+    {
+        "name": "ReDeploy",
+        "id": ""
+    },
+    {
+        "name": "TextField",
+        "id": ""
+    },
+    {
+        "name": "InvalidCharacter",
+        "id": ""
+    },
+    {
+        "name": "LicenseKey",
+        "id": ""
+    },
+    {
+        "name": "TestKey",
+        "id": ""
+    },
+    {
+        "name": "ADFS",
+        "id": ""
+    },
+    {
+        "name": "RoadmapQuestion",
+        "id": ""
+    },
+    {
+        "name": "SessionCookie",
+        "id": ""
+    },
+    {
+        "name": "CustomersWorkaround",
+        "id": ""
+    },
+    {
+        "name": "FixedInFeature",
+        "id": ""
+    },
+    {
+        "name": "Filters",
+        "id": ""
+    },
+    {
+        "name": "NoHotfix",
+        "id": ""
+    },
+    {
+        "name": "DataLoad",
+        "id": ""
+    },
+    {
+        "name": "EMMigration",
+        "id": ""
+    },
+    {
+        "name": "kerberos",
+        "id": ""
+    },
+    {
+        "name": "websphere",
+        "id": ""
+    },
+    {
+        "name": "EnhanceAutobot",
+        "id": ""
+    },
+    {
+        "name": "NoNewCasesByEmail",
+        "id": ""
+    },
+    {
+        "name": "RespondedToFirstEmail",
+        "id": ""
+    },
+    {
+        "name": "OpenedByAutomaticReply",
+        "id": ""
+    },
+    {
+        "name": "EM",
+        "id": ""
+    },
+    {
+        "name": "10.4.1",
+        "id": ""
+    },
+    {
+        "name": "Enterprise manager localization",
+        "id": ""
+    },
+    {
+        "name": "NoKB",
+        "id": ""
+    },
+    {
+        "name": "MissingKBArticle",
+        "id": ""
+    },
+    {
+        "name": "CouldBeHandledByTSA",
+        "id": ""
+    },
+    {
+        "name": "AvoidableIfOpenedViaSupportSite",
+        "id": ""
+    },
+    {
+        "name": "InaccurateKBArticle",
+        "id": ""
+    },
+    {
+        "name": "SolutionOriginUnclear",
+        "id": ""
+    },
+    {
+        "name": "OpenedAskingForOtherCase",
+        "id": ""
+    },
+    {
+        "name": "IssueFinexInNewerVersion",
+        "id": ""
+    },
+    {
+        "name": "DataBlending",
+        "id": ""
+    },
+    {
+        "name": "CompoundKeyAttributes",
+        "id": ""
+    },
+    {
+        "name": "CacheSubscription",
+        "id": ""
+    },
+    {
+        "name": "DistributionServices",
+        "id": ""
+    },
+    {
+        "name": "DuplicateSubscription",
+        "id": ""
+    },
+    {
+        "name": "ProjectDuplication",
+        "id": ""
+    },
+    {
+        "name": "PROTOCOL_ERROR",
+        "id": ""
+    },
+    {
+        "name": "IIS10specific",
+        "id": ""
+    },
+    {
+        "name": "mobileConfigURL",
+        "id": ""
+    },
+    {
+        "name": "R_Integration",
+        "id": ""
+    },
+    {
+        "name": "SeamlessLogin",
+        "id": ""
+    },
+    {
+        "name": "GoogleAnalytics",
+        "id": ""
+    },
+    {
+        "name": "Upgrade Metadata DB version",
+        "id": ""
+    },
+    {
+        "name": "Upgrade MicroStrategy version",
+        "id": ""
+    },
+    {
+        "name": "SQL error",
+        "id": ""
+    },
+    {
+        "name": "Clean Uninstallation MicroStrategy",
+        "id": ""
+    },
+    {
+        "name": "Statistics",
+        "id": ""
+    },
+    {
+        "name": "prueba",
+        "id": ""
+    },
+    {
+        "name": "test",
+        "id": ""
+    },
+    {
+        "name": "Users cannot change password",
+        "id": ""
+    }
+]

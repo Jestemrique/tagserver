@@ -1,0 +1,3572 @@
+[
+    {
+        "name": "Performance",
+        "caseID": "5004400000xI7OzAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Documentation",
+        "caseID": "5004400000xI7OzAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MissingContactDetails",
+        "caseID": "5004400000xI7OzAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Engine",
+        "caseID": "5004400000xI1LaAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Incorrect Result",
+        "caseID": "5004400000xI1LaAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ODBC driver",
+        "caseID": "5004400000xI1LaAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "date format",
+        "caseID": "5004400000xI1LaAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Documentation",
+        "caseID": "5004400000xIRqXAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "REST API",
+        "caseID": "5004400000xIRqXAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Security Roles",
+        "caseID": "5004400000xIRqXAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "AWS",
+        "caseID": "5004400000xIbLVAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Provision",
+        "caseID": "5004400000xIbLVAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EC2 instance",
+        "caseID": "5004400000xIbLVAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ACL issue",
+        "caseID": "5004400000yXeIKAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Expected Behavior",
+        "caseID": "5004400000yXeIKAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KB present",
+        "caseID": "5004400000yXeIKAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerDidNotResearch",
+        "caseID": "5004400000yXeIKAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KBase",
+        "caseID": "5004400000yXeIKAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Drilling",
+        "caseID": "5004400000xHxmGAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "How-to",
+        "caseID": "5004400000xHxmGAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Dossier",
+        "caseID": "5004400000xHxmGAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Linking",
+        "caseID": "5004400000xHxmGAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xHxmGAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoVersion",
+        "caseID": "5004400000xHxmGAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Font issue",
+        "caseID": "5004400000yXSB6AAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Wrong case reason",
+        "caseID": "5004400000yXSB6AAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EnvironmentalIssue",
+        "caseID": "5004400000yXSB6AAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerGaveUp",
+        "caseID": "5004400000yXSB6AAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Limitation",
+        "caseID": "5004400000xIIS7AAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoWorkaround",
+        "caseID": "5004400000xIIS7AAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "BulkExport",
+        "caseID": "5004400000xIIS7AAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Metadata",
+        "caseID": "5004400000xIbRiAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "databasePerformance",
+        "caseID": "5004400000xIbRiAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CapacityPlanning",
+        "caseID": "5004400000xJkWiAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Sizing",
+        "caseID": "5004400000xJkWiAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Storage",
+        "caseID": "5004400000xJkWiAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Cloud",
+        "caseID": "5004400000yXQOqAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Training",
+        "caseID": "5004400000yXQOqAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ODBC",
+        "caseID": "5004400000yXQOqAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Connectivity",
+        "caseID": "5004400000yXQOqAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Installation",
+        "caseID": "5004400000yXQciAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MissingContactDetails",
+        "caseID": "5004400000yYpNIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000yYpNIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Teradata",
+        "caseID": "5004400000yYpNIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LDAP",
+        "caseID": "5004400000yYpNIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DataImport",
+        "caseID": "5004400000yYpNIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "StringHandling",
+        "caseID": "5004400000yYpNIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ContractIssues",
+        "caseID": "5004400000yZuJPAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UnsupportedSetup",
+        "caseID": "5004400000yZuJPAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SimpleQuestion",
+        "caseID": "5004400000yZuJPAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerDidNotResearch",
+        "caseID": "5004400000yZuJPAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Documentation",
+        "caseID": "5004400000yZuJPAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Dossier",
+        "caseID": "5004400000xI0LeAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Mapbox",
+        "caseID": "5004400000xI0LeAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xI0LeAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WebGL",
+        "caseID": "5004400000xI0LeAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "BrowserIssue",
+        "caseID": "5004400000xI0LeAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Wrong Product",
+        "caseID": "5004400000xHy9bAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Wrong case reason",
+        "caseID": "5004400000xHy9bAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Customization",
+        "caseID": "5004400000xHy9bAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Navigating",
+        "caseID": "5004400000xHy9bAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Privileges",
+        "caseID": "5004400000xIRd4AAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Mobile",
+        "caseID": "5004400000xIRd4AAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "No workaround",
+        "caseID": "5004400000xIRd4AAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SAML",
+        "caseID": "5004400000xIEWsAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Shibboleth",
+        "caseID": "5004400000xIEWsAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoSupport",
+        "caseID": "5004400000xIEWsAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Authentication",
+        "caseID": "5004400000xIEWsAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Howto",
+        "caseID": "5004400000xIRqDAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "REST",
+        "caseID": "5004400000xIRqDAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "API",
+        "caseID": "5004400000xIRqDAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xIRqDAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "caseID": "5004400000xIbFmAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ESRI",
+        "caseID": "5004400000xIbFmAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Maps",
+        "caseID": "5004400000xIbFmAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "caseID": "5004400000yXRy2AAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "iOS",
+        "caseID": "5004400000yXRy2AAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SDK",
+        "caseID": "5004400000yXRy2AAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Security",
+        "caseID": "5004400000yXRy2AAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "HowTo",
+        "caseID": "5004400000yXbFVAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "XCode",
+        "caseID": "5004400000yXbFVAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "iOS",
+        "caseID": "5004400000yXbFVAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SDK",
+        "caseID": "5004400000yXbFVAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Compile",
+        "caseID": "5004400000yXbFVAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "caseID": "5004400000yXbFVAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "REST",
+        "caseID": "5004400000yYNwLAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SDK",
+        "caseID": "5004400000yYNwLAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "caseID": "5004400000yYNwLAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "OpenSessions",
+        "caseID": "5004400000yYNwLAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Library",
+        "caseID": "5004400000yYNwLAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "caseID": "5004400000yZYYqAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "JavaAPI",
+        "caseID": "5004400000yZYYqAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "AttributeExpresion",
+        "caseID": "5004400000yZYYqAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Howto",
+        "caseID": "5004400000yZYYqAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "REST",
+        "caseID": "5004400000ya1NOAAY",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "caseID": "5004400000ya1NOAAY",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EndPointIssues",
+        "caseID": "5004400000ya1NOAAY",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WebAccess",
+        "caseID": "5004400000yZuJPAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WebBrowser",
+        "caseID": "5004400000yZuJPAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Compatibility",
+        "caseID": "5004400000yZuJPAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "caseID": "5004400000yZuJPAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Thresholds",
+        "caseID": "5004400000xJXqxAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "caseID": "5004400000xJXqxAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Formatting",
+        "caseID": "5004400000xJXqxAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "URL API",
+        "caseID": "5004400000xIcGvAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownLimitation",
+        "caseID": "5004400000xIcGvAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "HowTo",
+        "caseID": "5004400000xIcGvAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoResolution",
+        "caseID": "5004400000yXcTuAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Export",
+        "caseID": "5004400000yXcTuAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Excel",
+        "caseID": "5004400000yXcTuAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WebIssue",
+        "caseID": "5004400000yXcTuAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ESM",
+        "caseID": "5004400000xId0UAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Customization",
+        "caseID": "5004400000xId0UAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Library",
+        "caseID": "5004400000xId0UAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SystemPrompt",
+        "caseID": "5004400000xId0UAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoDocumentation",
+        "caseID": "5004400000xId0UAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "caseID": "5004400000xId0UAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "",
+        "caseID": "5004400000xId0UAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Mobile configuration",
+        "caseID": "5004400000yYR3eAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Multimedia Widget",
+        "caseID": "5004400000yYR3eAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "No workaround",
+        "caseID": "5004400000yYR3eAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "",
+        "caseID": "5004400000yYR3eAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Display Issue",
+        "caseID": "5004400000xJj0uAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "iOS",
+        "caseID": "5004400000xJj0uAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Landscape View",
+        "caseID": "5004400000xJj0uAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Import",
+        "caseID": "5004400000yXbFzAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "GoogleDocs",
+        "caseID": "5004400000yXbFzAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "GoogleDrive",
+        "caseID": "5004400000yXbFzAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Unsetting Filter",
+        "caseID": "5004400000yXlXTAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Known Limitation",
+        "caseID": "5004400000yXlXTAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "No accurate subreason",
+        "caseID": "5004400000yXlXTAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "No Entitlement",
+        "caseID": "5004400000yXlXTAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "1011CU1Fix",
+        "caseID": "5004400000yXb4DAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FixedByUpdate",
+        "caseID": "5004400000yXb4DAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "PotentialReopenedCase",
+        "caseID": "5004400000yXb4DAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MisunderstoodFunctionality",
+        "caseID": "5004400000yXbEmAAk",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UnclearDocumentation",
+        "caseID": "5004400000yXbEmAAk",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerActionNoReponse",
+        "caseID": "5004400000yXkrLAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UnknownResolution",
+        "caseID": "5004400000yXkrLAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownIssue",
+        "caseID": "5004400000yXlKZAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FixedInNextRelease",
+        "caseID": "5004400000yXlKZAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Closed By Incation",
+        "caseID": "5004400000yY7VNAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "IssueWithSaving",
+        "caseID": "5004400000yY7VNAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UnknownRuntimeError",
+        "caseID": "5004400000yY7VNAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "GenericError",
+        "caseID": "5004400000yY7VNAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WrongCaseReason",
+        "caseID": "5004400000yY7VNAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WrongCaseReson",
+        "caseID": "5004400000yY7YHAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MissingDocumentation",
+        "caseID": "5004400000yY7YHAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "3rdParty",
+        "caseID": "5004400000yY7YHAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ReadMe",
+        "caseID": "5004400000yY7YHAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "HowTo",
+        "caseID": "5004400000yYayKAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WrongCaseReason",
+        "caseID": "5004400000yYayKAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Documentation",
+        "caseID": "5004400000yYayKAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Labels",
+        "caseID": "5004400000yYayKAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerDidNotResearch",
+        "caseID": "5004400000yYe2tAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KBase",
+        "caseID": "5004400000yYe2tAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownError",
+        "caseID": "5004400000yYe2tAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Customization",
+        "caseID": "5004400000xHy7dAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Integration",
+        "caseID": "5004400000xHy7dAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "3rdParty",
+        "caseID": "5004400000xHy7dAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Tamkeen",
+        "caseID": "5004400000xHy7dAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerGaveUp",
+        "caseID": "5004400000xHy7dAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Enhancement",
+        "caseID": "5004400000yY83oAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WorkingAsDesigned",
+        "caseID": "5004400000yY83oAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoResponse",
+        "caseID": "5004400000yYH6EAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Licensing",
+        "caseID": "5004400000yYH6EAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FixedInNextRelease",
+        "caseID": "5004400000xI0NQAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Filtering",
+        "caseID": "5004400000xI0NQAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Dossier",
+        "caseID": "5004400000xI0NQAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Licensing",
+        "caseID": "5004400000xIRpFAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "HowTo",
+        "caseID": "5004400000xIRpFAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xIRpFAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoVersion",
+        "caseID": "5004400000xIRpFAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Upgrade",
+        "caseID": "5004400000xIlyVAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MANIFEST.MF",
+        "caseID": "5004400000xIlyVAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xIlyVAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SAML",
+        "caseID": "5004400000xIoraAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SSO",
+        "caseID": "5004400000xIoraAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "404",
+        "caseID": "5004400000xIoraAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Authentication",
+        "caseID": "5004400000xIoraAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FixedInNextRelease",
+        "caseID": "5004400000xJ4ZxAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "IssueWithSaving",
+        "caseID": "5004400000xJ4ZxAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DerivedObjects",
+        "caseID": "5004400000xJ4ZxAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownIssue",
+        "caseID": "5004400000xJ4ZxAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Comaptibility",
+        "caseID": "5004400000xJEyqAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ReadMe",
+        "caseID": "5004400000xJEyqAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerDidNotResearch",
+        "caseID": "5004400000xJEyqAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "iOS",
+        "caseID": "5004400000xJEyqAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MobileConnectivityIssue",
+        "caseID": "5004400000xJKufAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MobileIron",
+        "caseID": "5004400000xJKufAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ClosedByInaction",
+        "caseID": "5004400000xJKufAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Encryption",
+        "caseID": "5004400000xJKufAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomApp",
+        "caseID": "5004400000xIEXWAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Workaround",
+        "caseID": "5004400000xIEXWAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Caches",
+        "caseID": "5004400000xIEXWAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LoadBalancer",
+        "caseID": "5004400000xJOHwAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xJOHwAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LoggingToWeb",
+        "caseID": "5004400000xJOHwAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UserConnections",
+        "caseID": "5004400000xJOHwAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoResponse",
+        "caseID": "5004400000xIFvPAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UnsupportedConfiguration",
+        "caseID": "5004400000xIFvPAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LibraryMobileApp",
+        "caseID": "5004400000xIFvPAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WrongCaseReason",
+        "caseID": "5004400000xIFvPAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xIKwxAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Desktop",
+        "caseID": "5004400000xIKwxAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "IdeaExchange",
+        "caseID": "5004400000xIKwxAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ESRIMap",
+        "caseID": "5004400000xJOTxAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ClearingCaches",
+        "caseID": "5004400000xJOTxAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DisplayIssue",
+        "caseID": "5004400000xJXEKAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "HTMLTag",
+        "caseID": "5004400000xJXEKAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "iOS",
+        "caseID": "5004400000xJXEKAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ImageAlignment",
+        "caseID": "5004400000xJXEKAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DifferentContactPerson",
+        "caseID": "5004400000xJXEKAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xISFhAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Library",
+        "caseID": "5004400000xISFhAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ResponsiveDesign",
+        "caseID": "5004400000xISFhAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "GeneralQuestions",
+        "caseID": "5004400000xISFhAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerDidNotResearch",
+        "caseID": "5004400000xISFhAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "PromptedDocuments",
+        "caseID": "5004400000xJjJrAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "OpenInLibrary",
+        "caseID": "5004400000xJjJrAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LibraryDeployment",
+        "caseID": "5004400000xJjJrAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MisleadingPluginFiles",
+        "caseID": "5004400000xJjJrAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xJjJrAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xJjMWAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WrongCaseReason",
+        "caseID": "5004400000xJjMWAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ExcelLimitation",
+        "caseID": "5004400000xJjMWAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MobileUserConnection",
+        "caseID": "5004400000yYwJ8AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DeveloperSystemMonitor",
+        "caseID": "5004400000yYwJ8AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ExpectedBehaviour",
+        "caseID": "5004400000yYwJ8AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Mobile",
+        "caseID": "5004400000yYwQUAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EMMprovider",
+        "caseID": "5004400000yYwQUAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FeatureNotAvailableError",
+        "caseID": "5004400000yYwQUAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LinkToFolder",
+        "caseID": "5004400000yYwQUAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "URLAPI",
+        "caseID": "5004400000yYwQUAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Library",
+        "caseID": "5004400000yYz34AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Dossier",
+        "caseID": "5004400000yYz34AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "InfoIcon",
+        "caseID": "5004400000yYz34AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ApplicationError",
+        "caseID": "5004400000yYz34AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "GeneralError",
+        "caseID": "5004400000yYz34AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EditViewFilter",
+        "caseID": "5004400000xHyA5AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "PresentationMode",
+        "caseID": "5004400000xHyA5AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SDKSolution",
+        "caseID": "5004400000xHyA5AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FixedInNewerVersion",
+        "caseID": "5004400000xHyA5AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UnsupportedVersion",
+        "caseID": "5004400000xHyA5AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LandingPage",
+        "caseID": "5004400000xIHokAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCachingMode",
+        "caseID": "5004400000xIHokAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CSRF",
+        "caseID": "5004400000xIHokAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "TransactionServices",
+        "caseID": "5004400000xIJKnAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoModificationsSubmitted",
+        "caseID": "5004400000xIJKnAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ClosedByInaction",
+        "caseID": "5004400000xIT2KAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "iOS",
+        "caseID": "5004400000xIT2KAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ViewControllerError",
+        "caseID": "5004400000xIT2KAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoLongerReproduced",
+        "caseID": "5004400000xIT2KAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Facebook",
+        "caseID": "5004400000xIbO0AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FacebookAPI",
+        "caseID": "5004400000xIbO0AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DataImportConnector",
+        "caseID": "5004400000xIbO0AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KBarticle",
+        "caseID": "5004400000xIbO0AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownIssue",
+        "caseID": "5004400000xIbO0AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WebPerformance",
+        "caseID": "5004400000xIbPmAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoResolution",
+        "caseID": "5004400000xIbPmAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "OneTimeOccurrence",
+        "caseID": "5004400000xIbPmAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Library",
+        "caseID": "5004400000xJ5g1AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ApplicationError",
+        "caseID": "5004400000xJ5g1AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WebServerRestart",
+        "caseID": "5004400000xJ5g1AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LibraryApp",
+        "caseID": "5004400000xJDhKAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "iOS",
+        "caseID": "5004400000xJDhKAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DossierExecution",
+        "caseID": "5004400000xJDhKAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SelectorIssue",
+        "caseID": "5004400000yYcWwAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ElementsNotPassed",
+        "caseID": "5004400000yYcWwAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MDandCachesRequired",
+        "caseID": "5004400000yYcWwAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MSTROffice",
+        "caseID": "5004400000yYwxJAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KBarticle",
+        "caseID": "5004400000yYwxJAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownIssue",
+        "caseID": "5004400000yYwxJAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MSTROffice",
+        "caseID": "5004400000yZdNUAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KBarticle",
+        "caseID": "5004400000yZdNUAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownIssue",
+        "caseID": "5004400000yZdNUAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Library",
+        "caseID": "5004400000yZuGkAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "RequestForLibraryFolders",
+        "caseID": "5004400000yZuGkAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CSRF",
+        "caseID": "5004400000yZwZjAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownIssue",
+        "caseID": "5004400000yZwZjAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000yZyiEAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WrongCaseContact",
+        "caseID": "5004400000yZyiEAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WCAG",
+        "caseID": "5004400000yZyiEAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "VPAT",
+        "caseID": "5004400000yZyiEAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MSTRcompliance",
+        "caseID": "5004400000yZyiEAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xIldCAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ACL",
+        "caseID": "5004400000xIldCAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ObjectSpecific",
+        "caseID": "5004400000xIldCAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Dossier",
+        "caseID": "5004400000xJmIEAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DarkTheme",
+        "caseID": "5004400000xJmIEAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FontColour",
+        "caseID": "5004400000xJmIEAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WebPerformance",
+        "caseID": "5004400000yXRcBAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "HierarchicalAttributes",
+        "caseID": "5004400000yXRcBAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ManyElements",
+        "caseID": "5004400000yXRcBAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Library",
+        "caseID": "5004400000yZ6mBAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DossierSharing",
+        "caseID": "5004400000yZ6mBAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DossierDeletion",
+        "caseID": "5004400000yZ6mBAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EnhancementRequest",
+        "caseID": "5004400000yZ6mBAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FixedInNextRelease",
+        "caseID": "5004400000xJYyPAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SSSS",
+        "caseID": "5004400000xJYyPAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000xJYyPAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "StimultaneousDatasetModification",
+        "caseID": "5004400000xJYyPAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Dossier",
+        "caseID": "5004400000xJYyPAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ToolTip",
+        "caseID": "5004400000xJZRlAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NotOnShortTermRoadmap",
+        "caseID": "5004400000xJZRlAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LineBreak",
+        "caseID": "5004400000xJZRlAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CarriageReturn",
+        "caseID": "5004400000xJZRlAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Newline",
+        "caseID": "5004400000xJZRlAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "BlankColumns",
+        "caseID": "5004400000xJjTIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Dossier",
+        "caseID": "5004400000xJjTIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MissingData",
+        "caseID": "5004400000xJjTIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "IssueAfterUpgrade",
+        "caseID": "5004400000xJjTIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UnspecifiedError",
+        "caseID": "5004400000xJjTIAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FilterSummary",
+        "caseID": "5004400000xJjyRAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Library",
+        "caseID": "5004400000xJjyRAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DerivedObject",
+        "caseID": "5004400000xJjyRAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoCaseReason",
+        "caseID": "5004400000xJjyRAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Android",
+        "caseID": "5004400000xJka6AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FitToPage",
+        "caseID": "5004400000xJka6AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DisplayIssue",
+        "caseID": "5004400000xJka6AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ImageResizing",
+        "caseID": "5004400000xJka6AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Rebranding",
+        "caseID": "5004400000yXQAUAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "iOS",
+        "caseID": "5004400000yXQAUAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ComponentNotUpgraded",
+        "caseID": "5004400000yXQAUAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CompatibilityError",
+        "caseID": "5004400000yXQAUAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Library",
+        "caseID": "5004400000yXQSsAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SSLIssue",
+        "caseID": "5004400000yXQSsAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CollaborationServer",
+        "caseID": "5004400000yXQSsAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ConnectivityIssue",
+        "caseID": "5004400000yXQSsAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Rebranding",
+        "caseID": "5004400000yXaw4AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerDidNotResearch",
+        "caseID": "5004400000yXaw4AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "iOS",
+        "caseID": "5004400000yXaw4AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "HowTo",
+        "caseID": "5004400000yXaw4AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "XCode",
+        "caseID": "5004400000yXaw4AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownIssue",
+        "caseID": "5004400000yXbC7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FIxedInNextRelease",
+        "caseID": "5004400000yXbC7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerFoundKB",
+        "caseID": "5004400000yXbC7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Library",
+        "caseID": "5004400000yXmTNAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "IIS",
+        "caseID": "5004400000yXmTNAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WindowsAuthentication",
+        "caseID": "5004400000yXmTNAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WrongCaseReason",
+        "caseID": "5004400000yXmTNAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoProduct",
+        "caseID": "5004400000yXmTNAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "wrong case reason",
+        "caseID": "5004400000xIRbrAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "wrong version",
+        "caseID": "5004400000xIRbrAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Excel export",
+        "caseID": "5004400000xIRbrAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "knownIssue",
+        "caseID": "5004400000xIRbrAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KB present",
+        "caseID": "5004400000xIRbrAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "upgrade issue",
+        "caseID": "5004400000xIlfXAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "cosmetic issue",
+        "caseID": "5004400000xIlfXAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "imagere rendering",
+        "caseID": "5004400000xIlfXAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "better approach to reproduce",
+        "caseID": "5004400000xIlfXAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Object Manager",
+        "caseID": "5004400000xIkcDAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "XML options",
+        "caseID": "5004400000xIkcDAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Authentication",
+        "caseID": "5004400000xIkcDAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Documentation",
+        "caseID": "5004400000xIkcDAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Integrity Manager",
+        "caseID": "5004400000yXuRFAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "baseline",
+        "caseID": "5004400000yXuRFAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": ".mtc file",
+        "caseID": "5004400000yXuRFAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Documentation",
+        "caseID": "5004400000yXuRFAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Installation",
+        "caseID": "5004400000yY5vTAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Upgrade",
+        "caseID": "5004400000yY5vTAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MAInst.dll",
+        "caseID": "5004400000yY5vTAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Upgrade",
+        "caseID": "5004400000yaDyQAAU",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Documentation",
+        "caseID": "5004400000yaDyQAAU",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Documentation",
+        "caseID": "5004400000ya4kRAAQ",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "OOTB driver",
+        "caseID": "5004400000ya4kRAAQ",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Connectivity",
+        "caseID": "5004400000ya4H9AAI",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Workstation",
+        "caseID": "5004400000ya4H9AAI",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerDidSearch",
+        "caseID": "5004400000xIRSfAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SSO",
+        "caseID": "5004400000xIRSfAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "TrustedAuthentication",
+        "caseID": "5004400000xIRSfAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Aqueduct",
+        "caseID": "5004400000xIvaVAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CollaborationServer",
+        "caseID": "5004400000xIvaVAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "InternalCase",
+        "caseID": "5004400000xIvaVAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoVersion",
+        "caseID": "5004400000xIrrbAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerDidSearch",
+        "caseID": "5004400000xIrrbAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ESRI",
+        "caseID": "5004400000xIrrbAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ResolvedWithKB",
+        "caseID": "5004400000xIrrbAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "duplicate",
+        "caseID": "5004400000xIuAqAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "",
+        "caseID": "5004400000xJ3pJAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerActionNoReponse",
+        "caseID": "5004400000xJcdQAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UnknownResolution",
+        "caseID": "5004400000xJcdQAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Metadata inconsistency",
+        "caseID": "5004400000yXQDnAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Custom Test",
+        "caseID": "5004400000yXQDnAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ScanMD",
+        "caseID": "5004400000yXQDnAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ACL",
+        "caseID": "5004400000yY5w7AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ObjectMigration",
+        "caseID": "5004400000yY5w7AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Privileges",
+        "caseID": "5004400000yY5w7AAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Upgrade",
+        "caseID": "5004400000yY6HoAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Hotfix",
+        "caseID": "5004400000yY6HoAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Documentation",
+        "caseID": "5004400000yY6HoAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Expired Support Entitlement",
+        "caseID": "5004400000xIbMxAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Metadata Performance",
+        "caseID": "5004400000xISEAAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Environemnt Management",
+        "caseID": "5004400000xISEAAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "AWS",
+        "caseID": "5004400000yXYvxAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "IssueDisappears",
+        "caseID": "5004400000yXYvxAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UnknownResolution",
+        "caseID": "5004400000yXYvxAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "AWS",
+        "caseID": "5004400000yXlgfAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KBPresent",
+        "caseID": "5004400000yXlgfAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoReply",
+        "caseID": "5004400000yXlgfAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Formatting",
+        "caseID": "5004400000yXTf2AAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Metric",
+        "caseID": "5004400000yXTf2AAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownIssue",
+        "caseID": "5004400000yZZTwAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerFoundKB",
+        "caseID": "5004400000yZZTwAAO",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Telemetry",
+        "caseID": "5004400000xIbSWAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ProvidedProject",
+        "caseID": "5004400000xIbSWAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": ".mmpPackage",
+        "caseID": "5004400000xIbSWAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DossierLookandFeel",
+        "caseID": "5004400000yXUsHAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EnhancementRequest",
+        "caseID": "5004400000yXUsHAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NotonRoadmap",
+        "caseID": "5004400000yXUsHAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MobileURLAPI",
+        "caseID": "5004400000yXcK4AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Hyperlink",
+        "caseID": "5004400000yXcK4AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DynamicPromptAnswer",
+        "caseID": "5004400000yXcK4AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Workaround",
+        "caseID": "5004400000yXcK4AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DownloadIssue",
+        "caseID": "5004400000yXxdYAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SomeDossierOnly",
+        "caseID": "5004400000yXxdYAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoVersion",
+        "caseID": "5004400000yXxdYAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ESRIMap",
+        "caseID": "5004400000yY68rAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ClusteredBubbles",
+        "caseID": "5004400000yY68rAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Colouring",
+        "caseID": "5004400000yY68rAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Threshold",
+        "caseID": "5004400000yY68rAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WorkingasDesigned",
+        "caseID": "5004400000yY68rAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "IdeaExchange",
+        "caseID": "5004400000yY68rAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ArrowKeysonKeyboard",
+        "caseID": "5004400000yY6aRAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DossierGrid",
+        "caseID": "5004400000yY6aRAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Scrolling",
+        "caseID": "5004400000yY6aRAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "UserError",
+        "caseID": "5004400000yY7PoAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "TomcatInstallation",
+        "caseID": "5004400000yY7PoAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WebDeployment",
+        "caseID": "5004400000yYw5VAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LoginFailure",
+        "caseID": "5004400000yYw5VAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ReDeploy",
+        "caseID": "5004400000yYw5VAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Dossier",
+        "caseID": "5004400000yYw9NAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "TextField",
+        "caseID": "5004400000yYw9NAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "InvalidCharacter",
+        "caseID": "5004400000yYw9NAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "LicenseKey",
+        "caseID": "5004400000yYwALAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "TestKey",
+        "caseID": "5004400000yYwALAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SSO",
+        "caseID": "5004400000yY5qdAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ADFS",
+        "caseID": "5004400000yY5qdAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "RoadmapQuestion",
+        "caseID": "5004400000yY5qdAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Mobile",
+        "caseID": "5004400000yYQlBAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SessionCookie",
+        "caseID": "5004400000yYQlBAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomersWorkaround",
+        "caseID": "5004400000yYQlBAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "FixedInFeature",
+        "caseID": "5004400000yYR2MAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Filters",
+        "caseID": "5004400000yYR2MAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoHotfix",
+        "caseID": "5004400000yYR2MAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "",
+        "caseID": "5004400000yYRAQAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DataLoad",
+        "caseID": "5004400000foMzLAAU",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EMMigration",
+        "caseID": "5004400000xJkYAAA0",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "kerberos",
+        "caseID": "5004400000yb0lEAAQ",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "websphere",
+        "caseID": "5004400000yb0lEAAQ",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EnhanceAutobot",
+        "caseID": "5004400000xJ3zaAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoNewCasesByEmail",
+        "caseID": "5004400000xJ3zaAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "RespondedToFirstEmail",
+        "caseID": "5004400000xJ3zaAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EnhanceAutobot",
+        "caseID": "5004400000xIbOjAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "OpenedByAutomaticReply",
+        "caseID": "5004400000xIbOjAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EnhanceAutobot",
+        "caseID": "5004400000yYyhSAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "RespondedToFirstEmail",
+        "caseID": "5004400000yYyhSAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoNewCasesByEmail",
+        "caseID": "5004400000yYyhSAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EnhanceAutobot",
+        "caseID": "5004400000yYycDAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "RespondedToFirstEmail",
+        "caseID": "5004400000yYycDAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoNewCasesByEmail",
+        "caseID": "5004400000yYycDAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EM",
+        "caseID": "5004400000xJ3pdAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "10.4.1",
+        "caseID": "5004400000xJ3pdAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Enterprise manager localization",
+        "caseID": "5004400000yaOAWAA2",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "KnownIssue",
+        "caseID": "5004400000yaOAWAA2",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "NoKB",
+        "caseID": "5004400000yaOAWAA2",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MissingKBArticle",
+        "caseID": "5004400000xIlkmAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CouldBeHandledByTSA",
+        "caseID": "5004400000xIlkmAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "AvoidableIfOpenedViaSupportSite",
+        "caseID": "5004400000xIlkmAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "AvoidableIfOpenedViaSupportSite",
+        "caseID": "5004400000xJ3ZzAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MissingKBArticle",
+        "caseID": "5004400000xJDmtAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "AvoidableIfOpenedViaSupportSite",
+        "caseID": "5004400000xJjIeAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "InaccurateKBArticle",
+        "caseID": "5004400000yYavpAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MissingKBArticle",
+        "caseID": "5004400000xIRpUAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SolutionOriginUnclear",
+        "caseID": "5004400000xIRpUAAW",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "OpenedAskingForOtherCase",
+        "caseID": "5004400000yaXwxAAE",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MissingKBArticle",
+        "caseID": "5004400000yZcnGAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MissingKBArticle",
+        "caseID": "5004400000yZ6nTAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "MissingKBArticle",
+        "caseID": "5004400000yYHODAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "IssueFinexInNewerVersion",
+        "caseID": "5004400000yYHODAA4",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DataBlending",
+        "caseID": "5004400000w43J8AAI",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CompoundKeyAttributes",
+        "caseID": "5004400000w43J8AAI",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "EnhancementRequest",
+        "caseID": "5004400000w43J8AAI",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CacheSubscription",
+        "caseID": "5004400000yb17eAAA",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DistributionServices",
+        "caseID": "5004400000yb17eAAA",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DuplicateSubscription",
+        "caseID": "5004400000yb17eAAA",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ProjectDuplication",
+        "caseID": "5004400000yb17eAAA",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "PROTOCOL_ERROR",
+        "caseID": "5004400000xHVsmAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "IIS10specific",
+        "caseID": "5004400000xHVsmAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "mobileConfigURL",
+        "caseID": "5004400000xHVsmAAG",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Performance",
+        "caseID": "5004400000zUeS7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "WebPerformance",
+        "caseID": "5004400000zUeS7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "DossierExecution",
+        "caseID": "5004400000zUeS7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "R_Integration",
+        "caseID": "5004400000zW7UqAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Installation",
+        "caseID": "5004400000zW7UqAAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "CustomerDidNotResearch",
+        "caseID": "5004400000ybYXzAAM",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "404",
+        "caseID": "5004400000zV02jAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SeamlessLogin",
+        "caseID": "5004400000zV02jAAC",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "GoogleAnalytics",
+        "caseID": "5004400000zX5yIAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "ProjectDuplication",
+        "caseID": "5004400000yYoI7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "IssueAfterUpgrade",
+        "caseID": "5004400000yYoI7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Upgrade Metadata DB version",
+        "caseID": "5004400000yYoI7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Upgrade MicroStrategy version",
+        "caseID": "5004400000yYoI7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "SQL error",
+        "caseID": "5004400000yYoI7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Clean Uninstallation MicroStrategy",
+        "caseID": "5004400000yYoI7AAK",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Statistics",
+        "caseID": "50044000010rVXAAA2",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "prueba",
+        "caseID": "5004400000yXauSAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "test",
+        "caseID": "50044000010r3STAAY",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Metadata inconsistency",
+        "caseID": "5004400000zWb5WAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    },
+    {
+        "name": "Users cannot change password",
+        "caseID": "5004400000zWb5WAAS",
+        "parentTagID": "",
+        "dateCreated": "",
+        "Author": ""
+    }
+]
