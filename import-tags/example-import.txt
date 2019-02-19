@@ -5,7 +5,6 @@ mongoimport --db importags --collection tagInstances --file tags_flat.json --jso
 
 mongoimport --db casetaggerDB --collection TagInstance --file taginstances-result.json
 
-
-
-
 mongoimport --db casetaggerDB --collection Tag --file tags-result.json --jsonArray
+
+
