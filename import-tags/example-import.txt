@@ -3,8 +3,13 @@ mongoimport --db dbName --collection collectionName --file fileName.json --jsonA
 
 mongoimport --db importags --collection tagInstances --file tags_flat.json --jsonArray
 
-mongoimport --db casetaggerDB --collection TagInstance --file taginstances-result.json
+mongoimport --db casetaggerDB --collection TagInstance --file taginstances-result.json --jsonArray
 
 mongoimport --db casetaggerDB --collection Tag --file tags-result.json --jsonArray
+
+Importing data into ts-casetagger
+mongoimport --host RLBOT2K12R2.techsupp.microstrategy.com:27017 --db ts-casetagger --collection TagInstance --file tagInstances-result.json --jsonArray
+
+mongoimport --host RLBOT2K12R2.techsupp.microstrategy.com:27017 --db ts-casetagger --collection Tag --file tags-result.json --jsonArray
 
 
