@@ -4,10 +4,10 @@
     "connector": "memory"
   },
   "casetaggerDS": {
-    "host": "localhost",
+    "host": "RLBOT2K12R2.techsupp.microstrategy.com",
     "port": 27017,
-    "url": "mongodb://localhost:27017/casetaggerDB",
-    "database": "casetaggerDB",
+    "url": "mongodb://RLBOT2K12R2.techsupp.microstrategy.com:27017/ts-casetagger",
+    "database": "ts-casetagger",
     "password": "",
     "name": "casetaggerDS",
     "user": "",
