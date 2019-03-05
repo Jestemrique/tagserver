@@ -9,7 +9,6 @@ module.exports = function(Taginstance) {
      */
     Taginstance.observe('before save', (context, next) =>{
         //Create paret Tag in case it doesn't exist
-        //console.log('Stop');
         let Tag = context.Model.app.models.Tag;
         let tagName = context.instance.name;
         let tagObject = {
@@ -22,6 +21,7 @@ module.exports = function(Taginstance) {
                    console.log(error);
                }
         });
+
         next();
     });//End POST /TagInstances
 
